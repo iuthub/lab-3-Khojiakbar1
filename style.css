@@ -1,0 +1,44 @@
+body
+{
+	background-image: url("3.jpg");
+}
+h1
+{
+	color: #000000;
+}
+h2
+{
+	color: #3c3c3c;
+}
+span
+{
+	color: #787878;
+}
+p img
+{
+	width:200px;
+	height: 200px;
+}
+a
+{
+	color: #ffffff;
+	text-decoration: none;
+}
+img
+{
+	width: 50px;
+	height: 20px;
+}
+li
+{
+	color: #b4b4b4;
+}
+p
+{
+	color: #b4b4b4;
+}
+ 
+a:hover
+{
+	text-decoration: underline;
+}
